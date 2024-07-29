@@ -1,11 +1,22 @@
-- 👋 Hi, I’m @Sirlanns
-- 👀 I’m interested in: get started in programming and start developing my own programs and games
-- 🌱 I’m currently learning: Python
-- 💞️ I’m looking to collaborate on: For now I only intend to collaborate with projects at my school
-- 📫 How to reach me: contact me via my email - "sirlannascimento81@gmail.com"
-- ⚡ Fun fact: Besides my interest in programming, I really like drawing.
+### Ola! eu sou Sirlan Nascimento 👋 
 
-<!---
-Sirlanns/Sirlanns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sirlan_ns/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](Sirlannascimento81@gmail.com)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+)](https://x.com/SirlanW)
+
+![sirlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirlanns&show_icons=true&theme=dracula)
+
+### technologias que eu uso ✨
+
+<div style="display: inline_block"><br/>
+    <img aly="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+    "/>
+     <img aly="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+    "/>
+     <img aly="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+    "/>
+     <img aly="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+    "/>
+</div>
